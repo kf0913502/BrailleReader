@@ -1,0 +1,1 @@
+C:\Users\Kariem\Desktop\BrailleReader\BrailleReader.csproj;neutral

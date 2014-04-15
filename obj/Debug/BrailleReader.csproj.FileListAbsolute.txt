@@ -1,0 +1,72 @@
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\bin\Debug\App.xbf
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\bin\Debug\MainPage.xbf
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\bin\Debug\BrailleReader.exe
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\bin\Debug\BrailleReader.pdb
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\bin\Debug\resources.pri
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\bin\Debug\AppxManifest.xml
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\bin\Debug\BrailleReader.build.appxrecipe
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\App.g.i.cs
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\App.g.cs
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\MainPage.g.i.cs
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\MainPage.g.cs
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\XamlTypeInfo.g.cs
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\App.xaml
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\MainPage.xaml
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\App.xbf
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\MainPage.xbf
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\XamlSaveStateFile.xml
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\BrailleReader.exe
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\BrailleReader.pdb
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\priconfig.xml
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\priconfig.xml.intermediate
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\layout.resfiles
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\layout.resfiles.intermediate
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\resources.resfiles
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\resources.resfiles.intermediate
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\pri.resfiles
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\pri.resfiles.intermediate
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\qualifiers.txt
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\qualifiers.txt.intermediate
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\abdelrazek\documents\visual studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\ProjectArchitectures.txt
+C:\Users\Abdelrazek\Documents\Visual Studio 2013\Projects\BrailleReader\BrailleReader\bin\Debug\Common\StandardStyles.xbf
+C:\Users\Abdelrazek\Documents\Visual Studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Abdelrazek\Documents\Visual Studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Abdelrazek\Documents\Visual Studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Abdelrazek\Documents\Visual Studio 2013\Projects\BrailleReader\BrailleReader\obj\Debug\Common\StandardStyles.xbf
+C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\App.xbf
+C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\MainPage.xbf
+C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\Common\StandardStyles.xbf
+C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\BrailleReader.exe
+C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\BrailleReader.pdb
+C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\resources.pri
+C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\AppxManifest.xml
+C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\BrailleReader.build.appxrecipe
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\App.g.i.cs
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\App.g.cs
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\MainPage.g.i.cs
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\MainPage.g.cs
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\App.xaml
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\MainPage.xaml
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\App.xbf
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\MainPage.xbf
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\Common\StandardStyles.xbf
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\BrailleReader.exe
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\BrailleReader.pdb
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\priconfig.xml
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\priconfig.xml.intermediate
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\layout.resfiles
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\layout.resfiles.intermediate
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\resources.resfiles
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\resources.resfiles.intermediate
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\pri.resfiles
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\pri.resfiles.intermediate
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\qualifiers.txt
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Kariem\Desktop\BrailleReader\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>UNPLUGGED-PC</Machine>
+    <WindowsUser>Kariem</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>82528e18-ad0d-46e7-bd87-d3a26e494dab</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\BrailleReader.exe">
+      <PackagePath>BrailleReader.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\!.gif">
+      <PackagePath>Assets\Alpha\!.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\-.gif">
+      <PackagePath>Assets\Alpha\-.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\0.gif">
+      <PackagePath>Assets\Alpha\0.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\1.gif">
+      <PackagePath>Assets\Alpha\1.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\2.gif">
+      <PackagePath>Assets\Alpha\2.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\3.gif">
+      <PackagePath>Assets\Alpha\3.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\4.gif">
+      <PackagePath>Assets\Alpha\4.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\5.gif">
+      <PackagePath>Assets\Alpha\5.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\6.gif">
+      <PackagePath>Assets\Alpha\6.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\7.gif">
+      <PackagePath>Assets\Alpha\7.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\8.gif">
+      <PackagePath>Assets\Alpha\8.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\9.gif">
+      <PackagePath>Assets\Alpha\9.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\a.gif">
+      <PackagePath>Assets\Alpha\a.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\apostrophe.gif">
+      <PackagePath>Assets\Alpha\apostrophe.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\b.gif">
+      <PackagePath>Assets\Alpha\b.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\c.gif">
+      <PackagePath>Assets\Alpha\c.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\cap.gif">
+      <PackagePath>Assets\Alpha\cap.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\comma.gif">
+      <PackagePath>Assets\Alpha\comma.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\d.gif">
+      <PackagePath>Assets\Alpha\d.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\e.gif">
+      <PackagePath>Assets\Alpha\e.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\f.gif">
+      <PackagePath>Assets\Alpha\f.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\g.gif">
+      <PackagePath>Assets\Alpha\g.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\h.gif">
+      <PackagePath>Assets\Alpha\h.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\i.gif">
+      <PackagePath>Assets\Alpha\i.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\j.gif">
+      <PackagePath>Assets\Alpha\j.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\k.gif">
+      <PackagePath>Assets\Alpha\k.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\l.gif">
+      <PackagePath>Assets\Alpha\l.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\m.gif">
+      <PackagePath>Assets\Alpha\m.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\n.gif">
+      <PackagePath>Assets\Alpha\n.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\No.gif">
+      <PackagePath>Assets\Alpha\No.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\o.gif">
+      <PackagePath>Assets\Alpha\o.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\p.gif">
+      <PackagePath>Assets\Alpha\p.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\period.gif">
+      <PackagePath>Assets\Alpha\period.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\q.gif">
+      <PackagePath>Assets\Alpha\q.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\question_mark.gif">
+      <PackagePath>Assets\Alpha\question_mark.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\r.gif">
+      <PackagePath>Assets\Alpha\r.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\s.gif">
+      <PackagePath>Assets\Alpha\s.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\t.gif">
+      <PackagePath>Assets\Alpha\t.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\u.gif">
+      <PackagePath>Assets\Alpha\u.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\v.gif">
+      <PackagePath>Assets\Alpha\v.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\w.gif">
+      <PackagePath>Assets\Alpha\w.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\x.gif">
+      <PackagePath>Assets\Alpha\x.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\y.gif">
+      <PackagePath>Assets\Alpha\y.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Alpha\z.gif">
+      <PackagePath>Assets\Alpha\z.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kariem\Desktop\BrailleReader\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
